@@ -5,9 +5,10 @@
 
 ## UNIQUE FEATURES
 
-* [Display items in chat](unique-features/display-items-in-chat.md)
+* [Display items in chat](features/display-items-in-chat.md)
+* [WebUI to edit configs](unique-features/webui-to-edit-configs.md)
 * [Custom placeholders](unique-features/custom-placeholders.md)
-* [URLs formatting](unique-features/urls-formatting.md)
+* [URLs formatting](features/urls-formatting.md)
 
 ## Features
 
