@@ -12,8 +12,7 @@ You can use MiniMessage tags and PlaceholderAPI placeholders
 
 formats (list)
 
-````yaml
-  ```yaml
+```yaml
 # The format of the chat
 # Permission format is overridden on descending order
 # (if a player has default and vip, if default is the first element, vip will be ignored)
@@ -33,7 +32,6 @@ formats:
   mention_format: <aqua>@%player%</aqua>
   link_format: <green><click:open_url:%link%>%link%</green> <- Click here
 ```
-````
 
 #### Permission format is overridden on descending order
 
