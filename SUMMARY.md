@@ -20,3 +20,5 @@
 * [@     Mentions](features/mentions.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [🗒 Clear chat](features/clear-chat.md)
+* [📀 Oraxen & ItemsAdder integrations](features/oraxen-and-itemsadder-integrations.md)
+* [📀 Telemetry system](features/telemetry-system.md)
