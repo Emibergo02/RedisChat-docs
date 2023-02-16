@@ -10,4 +10,5 @@
 * [Broadcast messages](features/broadcast-messages.md)
 * [Announce system](features/announce-system.md)
 * [@Mentions](features/mentions.md)
+* [Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [URLs formatting](features/urls-formatting.md)
