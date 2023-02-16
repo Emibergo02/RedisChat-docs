@@ -2,11 +2,11 @@
 description: Permission-based formats for your chat
 ---
 
-# 💬 Chat formats
+# Chat formats
 
 Every player have a chat formatting based on his permissions.
 
-You can use MiniMessage tags, PlaceholderAPI placeholders and unicode/utf-8 chars ti display resourcepack fonts
+You can use MiniMessage tags and PlaceholderAPI placeholders
 
 ## Configs
 

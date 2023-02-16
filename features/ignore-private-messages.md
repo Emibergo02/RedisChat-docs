@@ -1,4 +1,4 @@
-# 🔇 Ignore private messages
+# Ignore private messages
 
 ## Commands
 

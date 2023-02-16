@@ -2,7 +2,7 @@
 description: Send private messages to other players
 ---
 
-# 💭 Private messages
+# Private messages
 
 ## Commands
 
