@@ -1,7 +1,7 @@
 # Table of contents
 
-* [📥 Introduction](README.md)
-* [Installation](installation.md)
+* [⚠ Introduction](README.md)
+* [📩 Installation](installation.md)
 * [🚰 LINKS](links.md)
 * [🎓 Advanced use-case](advanced-use-case.md)
 
