@@ -10,7 +10,7 @@ Just write in chat a URL and it will be formatted as indicated in the config sec
 
 ## Configs
 
-[formats](chat-formats.md) (list) ->&#x20;
+[formats](../features/chat-formats.md) (list) ->&#x20;
 
 ```yaml
 link_format: <green><click:open_url:%link%>%link%</green> <- Click here

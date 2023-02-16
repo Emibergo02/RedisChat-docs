@@ -22,7 +22,7 @@ Shows your enderchest content
 
 ## Configs
 
-Edit the clickable buttons in the[ format section](chat-formats.md)
+Edit the clickable buttons in the[ format section](../features/chat-formats.md)
 
 ```yaml
   inventory_format: <click:run_command:%command%>[Open the inventory of %player%]</click>
