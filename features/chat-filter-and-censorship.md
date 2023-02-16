@@ -2,7 +2,7 @@
 description: Filter words
 ---
 
-# Chat filter and censorship
+# 🤬 Chat filter and censorship
 
 Censor bad words in chat replacing them with asterisk
 

@@ -1,4 +1,4 @@
-# 📀 Telemetry system
+# 📊 Telemetry system
 
 #### RedisChat has a very simple telemetry sistem to monitor execution timings
 

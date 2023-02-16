@@ -1,4 +1,4 @@
-# 📀 Oraxen & ItemsAdder integrations
+# 📀 Oraxen & ItemsAdder placeholders
 
 ### Coming soon...
 

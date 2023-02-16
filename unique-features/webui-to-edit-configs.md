@@ -1,4 +1,4 @@
-# WebUI to edit configs
+# 📝 WebUI to edit configs
 
 <figure><img src="../.gitbook/assets/redischat_webui1.png" alt=""><figcaption></figcaption></figure>
 

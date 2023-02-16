@@ -2,7 +2,7 @@
 description: Format clickable links
 ---
 
-# URLs formatting
+# 🔗 URLs formatting
 
 Just write in chat a URL and it will be formatted as indicated in the config section
 
