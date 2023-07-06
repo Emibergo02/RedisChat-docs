@@ -2,7 +2,7 @@
 description: Broadcasts a message to all players connected through RedisChat
 ---
 
-# Broadcast messages
+# 🔊 Broadcast messages
 
 ## Commands
 

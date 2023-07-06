@@ -19,6 +19,7 @@
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
 * [🔊 Broadcast messages](features/broadcast-messages.md)
 * [📢 Announce system](features/announce-system.md)
+* [📧 Mails](features/mails.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [@     Mentions](features/mentions.md)
 * [🗒 Clear chat](features/clear-chat.md)

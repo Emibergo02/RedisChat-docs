@@ -2,7 +2,7 @@
 description: Recurrent announces
 ---
 
-# Announce system
+# 📢 Announce system
 
 ## Commands
 

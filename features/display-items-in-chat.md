@@ -2,7 +2,7 @@
 description: Send items in chat to flex muscles
 ---
 
-# Display items in chat
+# 🖥 Display items in chat
 
 <figure><img src="../.gitbook/assets/redischat_showcase3.png" alt=""><figcaption><p>Click on the button in chat and a GUI will be opened for you</p></figcaption></figure>
 

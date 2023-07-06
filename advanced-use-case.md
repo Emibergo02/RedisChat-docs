@@ -1,4 +1,4 @@
-# Advanced use-case
+# 🎓 Advanced use-case
 
 Since RedisChat doesn't rely on the proxy (but behave like it is), the plugin have a lot of applications:
 
