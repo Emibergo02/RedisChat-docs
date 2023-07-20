@@ -1,5 +1,11 @@
 # 📀 Oraxen & ItemsAdder placeholders
 
-### Coming soon...
+## Oraxen
 
-### You can already use UTF-8/Unicode in chat
+You can use `<glyph:glyphname>` and `<shift:shiftnumber>` tag in chat&#x20;
+
+(you need the **`redischat.useformatting`** permission)
+
+## ItemsAdder
+
+You can use font images by pasting Unicode characters in chat or putting them inside configs
