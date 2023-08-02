@@ -4,23 +4,34 @@ description: Send permanent messages to your friends or your players
 
 # 📧 Mails
 
+{% code title="config.yml" %}
+```yaml
+# Enables /rmail /mail and the whole feature
+enableMails: true
+```
+{% endcode %}
+
 ## Commands
 
-### /rmail playerName mailTitle (or /mail playerName mailTitle)
+### /rmail send playerName mailTitle (or /mail playerName mailTitle)
 
 You can use it with `redischat.mail.write` permission.&#x20;
 
-After you execute this command there would be a clickable message in chat
+* After you execute this command there would be a clickable message in chat
+* That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
+* When you finished the editing click on the save button
 
-That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
 
-When you finished the editing click on the save button.
+* Clicking on that button will copy a command to be executed on chat/console
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chat GUI on mail send</p></figcaption></figure>
 
-Clicking on that button will copy a command to run in the console
+* By clicking _Confirm_ you will send the mail to the recipient
 
-Run that command and confirm sending the mail
+### Public messages:
+
+To send public messages use /rmail send \*public mailTitle
 
 ## /rmail
 
@@ -28,6 +39,11 @@ Executing only /rmail opens a GUI with all your mails
 
 <figure><img src="../.gitbook/assets/bbMSOUt - Imgur.png" alt=""><figcaption><p>Mail GUI</p></figcaption></figure>
 
-### Public messages:
+## /redischat-setitem \<item\_name>
 
-To send public messages use /rmail \*public mailTitle
+Use this command to set the item you have in the main hand into the mail GUI selected slot
+
+The available items are&#x20;
+
+`backButton, forwardButton, mailItem, privateButton, publicButton`
+

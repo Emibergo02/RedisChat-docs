@@ -25,4 +25,5 @@
 * [🗒 Clear chat](features/clear-chat.md)
 * [📀 Oraxen & ItemsAdder placeholders](features/oraxen-and-itemsadder-placeholders.md)
 * [📊 Telemetry system](features/telemetry-system.md)
+* [🧭 Legacy color codes](features/legacy-color-codes.md)
 * [⭐ Staff chat](features/staff-chat.md)
