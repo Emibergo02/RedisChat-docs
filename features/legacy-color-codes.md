@@ -1,6 +1,6 @@
 # 🧭 Legacy color codes
 
-## You can use  `&`  and  `§`  as Bukkit/legacy color codes symbol for chat messages and formatting
+## You can use  `&`  and  `§`  Bukkit/legacy color code symbols for chat messages and formatting
 
 Remember that you need `redischat.useformatting` to use colors in chat
 
