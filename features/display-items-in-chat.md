@@ -4,7 +4,9 @@ description: Send items in chat to flex muscles
 
 # 🖥 Display items in chat
 
-<figure><img src="../.gitbook/assets/redischat_showcase3.png" alt=""><figcaption><p>Click on the button in chat and a GUI will be opened for you</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Tags
 
@@ -39,3 +41,5 @@ inv_title: Inventory of %player%
 item_title: Item of %player%
 ec_title: Enderchest of %player%
 ```
+
+ANY REPRODUCIBLE, NON-CLIENTSIDE DUPE GLITCH WILL BE REWARDED WITH \$$$

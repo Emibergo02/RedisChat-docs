@@ -12,7 +12,7 @@ legacyColorCodesSupport: true
 
 ### Re-allow color codes to overwrite text after them
 
-![](<../.gitbook/assets/image (1).png>)![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1) (1).png>)![](<../.gitbook/assets/image (3).png>)
 
 {% code title="config.yml" %}
 ```yaml
