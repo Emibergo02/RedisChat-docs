@@ -20,13 +20,18 @@ You can use it with **`redischat.announce`** permission.&#x20;
 
 announces (list)
 
+````yaml
 ```yaml
-# Announces configs
+# Announcer configurations
 # delay and interval are in seconds
-# If you want to disable an announce, just remove it from the list
-announces: 
-  - announceName: Golden Sunday
-    message: <gold>100% discount of cookies</gold><br><aqua>Just kidding</aqua>
-    delay: 10
-    interval: 10
+# If you want to disable an announce, remove it from the list (announces: [])
+# Remember that in yaml [] is an empty list
+# If you specify a permission, only players with that permission will see the announce. Keep it empty to make it public
+announces:
+- announceName: default
+  message: '<red>RedisChat Announce: <br><white>lorem ipsum dolor sit amet'
+  permission: ''
+  delay: 5
+  interval: 300
 ```
+````
