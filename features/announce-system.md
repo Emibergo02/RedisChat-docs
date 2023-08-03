@@ -20,7 +20,6 @@ You can use it with **`redischat.announce`** permission.&#x20;
 
 announces (list)
 
-````yaml
 ```yaml
 # Announcer configurations
 # delay and interval are in seconds
@@ -34,4 +33,3 @@ announces:
   delay: 5
   interval: 300
 ```
-````
