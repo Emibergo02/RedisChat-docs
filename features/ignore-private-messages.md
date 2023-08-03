@@ -8,7 +8,7 @@ You can use it with **`redischat.ignore`** permission
 
 "list" - lists all ignored players
 
-The playername field is suggested by RedisChat starting from all the playernames saved on RedisChat on every instance of it
+The player name field is suggested by RedisChat starting from all the player names saved on RedisChat on every instance of it
 
 The command toggles the ignore of a player
 

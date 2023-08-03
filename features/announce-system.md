@@ -10,7 +10,7 @@ description: Recurrent announces
 
 You can use it with **`redischat.announce`** permission.&#x20;
 
-"start" - starts the clock to send the announce defined in the config section
+"start" - starts the clock to send the announcement defined in the config section
 
 "stop" - stops the clock
 

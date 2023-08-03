@@ -10,7 +10,7 @@ description: Send private messages to other players
 
 You can use it with **`redischat.message`** permission.&#x20;
 
-The playername field is suggested by RedisChat starting from all the playernames saved on RedisChat on every instance of it
+The player name field is suggested by RedisChat starting from all the player names saved on RedisChat on every instance of it
 
 The message field can be formatted with MiniMessage but you need **`redischat.useformatting`** to use MiniMessage tags
 

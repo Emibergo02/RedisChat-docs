@@ -21,4 +21,4 @@ regex_blacklist:
 - (?i)N4poli
 ```
 
-[https://regexr.com/](https://regexr.com/) - Could be useful. Select PCRE as Regex Engine (top right of the page)
+[https://regexr.com/](https://regexr.com/) - This could be useful. Select PCRE as Regex Engine (top right of the page)

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # ⚠ Introduction
 
 RedisChat is a cross-server chat plugin, designed to make communication between players on different servers seamless.&#x20;

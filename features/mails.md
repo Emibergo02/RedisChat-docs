@@ -17,7 +17,7 @@ enableMails: true
 
 You can use it with `redischat.mail.write` permission.&#x20;
 
-* After you execute this command there would be a clickable message in chat
+* After you execute this command there would be a clickable message in the chat
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
 * When you finished the editing click on the save button
 

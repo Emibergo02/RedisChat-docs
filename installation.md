@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📩 Installation
 
 ### Requirements:
 
-A Redis server installed and ready to use [(Click here for a guide on how to install quickly redis)](https://github.com/Emibergo02/RedisEconomy/wiki/Install-redis)
+A Redis server is installed and ready to use [(Click here for a guide on how to install quickly redis)](https://github.com/Emibergo02/RedisEconomy/wiki/Install-redis)
 
 Spigot/Paper server at least 1.16.x
 
