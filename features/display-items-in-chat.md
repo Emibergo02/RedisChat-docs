@@ -16,17 +16,23 @@ description: Send items in chat to flex muscles
 
 ## Tags
 
-### \<item>
+### \<item>                   &#x20;
+
+Permission: `redischat.showitem`
 
 Shows the item in the main hand through a clickable GUI
 
 ### \<inv>
 
+Permission: `redischat.showinv`
+
 Shows your entire inventory (and your armor slots)
 
 ### \<ec>
 
-Shows your enderchest content
+Permission: `redischat.showenderchest`
+
+Shows your enderchest contents
 
 
 

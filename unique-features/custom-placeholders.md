@@ -2,7 +2,7 @@
 description: Create your tags to be used in chat
 ---
 
-# Custom placeholders
+# #⃣ Custom placeholders
 
 Create content with custom Minimessage tags
 
@@ -19,3 +19,5 @@ placeholders:
   discord: <click:open_url:https://discord.gg/idk>Click to join our discord server</click>
   meme: <hover:show_text:'Explanation (what?)'>This is a meme
 ```
+
+Permission: `redischat.usecustomplaceholders`
