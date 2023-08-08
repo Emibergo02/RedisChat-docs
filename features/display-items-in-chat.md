@@ -4,9 +4,15 @@ description: Send items in chat to flex muscles
 
 # 🖥 Display items in chat
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>&#x3C;item> tag with a shulkerbox in hand</p></figcaption></figure>
+
+</div>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>&#x3C;item> tag with a spawner on right hand</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>&#x3C;inv> tag</p></figcaption></figure>
 
 ## Tags
 
@@ -21,6 +27,8 @@ Shows your entire inventory (and your armor slots)
 ### \<ec>
 
 Shows your enderchest content
+
+
 
 ## Configs
 
@@ -42,4 +50,15 @@ item_title: Item of %player%
 ec_title: Enderchest of %player%
 ```
 
-ANY REPRODUCIBLE, NON-CLIENTSIDE DUPE GLITCH WILL BE REWARDED WITH \$$$
+### InteractiveChat compatibility
+
+{% code title="config.yml" fullWidth="false" %}
+```yaml
+# The [inv], [item] and [ec] placeholders will be considered as minimessage tags
+interactiveChatNostalgia = false;
+```
+{% endcode %}
+
+#### Bug bounty
+
+ANY REPRODUCIBLE, NON-CLIENTSIDE DUPE GLITCH WILL BE REWARDED WITH \$$$ CONTACT ME ON DISCORD (unnm3d)

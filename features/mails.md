@@ -21,11 +21,11 @@ You can use it with `redischat.mail.write` permission.&#x20;
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
 * When you finished the editing click on the save button
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
 
 * Clicking on that button will copy a command to be executed on chat/console
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Chat GUI on mail send</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Chat GUI on mail send</p></figcaption></figure>
 
 * By clicking _Confirm_ you will send the mail to the recipient
 
