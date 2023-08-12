@@ -31,7 +31,7 @@ You can use it with `redischat.mail.write` permission.&#x20;
 
 ### Public messages:
 
-To send public messages use /rmail send \*public mailTitle
+To send public messages use /rmail send #Public mailTitle
 
 ## /rmail
 
