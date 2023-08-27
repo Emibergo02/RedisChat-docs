@@ -2,7 +2,7 @@
 description: Customize join and quit messages
 ---
 
-# Join and quit messages
+# 😎 Join and quit messages
 
 #### You can customize join and quit messages inside the config.yml based on permissions
 

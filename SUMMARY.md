@@ -14,7 +14,6 @@
 
 ## Features
 
-* [Join and quit messages](features/join-and-quit-messages.md)
 * [💭 Private messages](features/private-messages.md)
 * [💬 Chat formats](features/chat-formats.md)
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
@@ -23,6 +22,7 @@
 * [📧 Mails](features/mails.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [@      Mentions](features/mentions.md)
+* [😎 Join and quit messages](features/join-and-quit-messages.md)
 * [🗒 Clear chat](features/clear-chat.md)
 * [📀 Oraxen & ItemsAdder placeholders](features/oraxen-and-itemsadder-placeholders.md)
 * [📊 Telemetry system](features/telemetry-system.md)
