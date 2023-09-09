@@ -6,7 +6,7 @@ description: Send items in chat to flex muscles
 
 <div data-full-width="true">
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>&#x3C;item> tag with a shulkerbox in hand</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>&#x3C;item> tag with a shulkerbox in hand</p></figcaption></figure>
 
 </div>
 

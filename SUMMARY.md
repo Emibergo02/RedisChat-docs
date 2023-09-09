@@ -14,6 +14,7 @@
 
 ## Features
 
+* [🎭 Channels](features/channels.md)
 * [💭 Private messages](features/private-messages.md)
 * [💬 Chat formats](features/chat-formats.md)
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
