@@ -11,6 +11,7 @@
 * [📝 WebUI to edit configs](unique-features/webui-to-edit-configs.md)
 * [#⃣ Custom placeholders](unique-features/custom-placeholders.md)
 * [🔗 URLs formatting](features/urls-formatting.md)
+* [📧 Mails](unique-features/mails.md)
 
 ## Features
 
@@ -20,7 +21,6 @@
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
 * [🔊 Broadcast messages](features/broadcast-messages.md)
 * [📢 Announce system](features/announce-system.md)
-* [📧 Mails](features/mails.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [@      Mentions](features/mentions.md)
 * [😎 Join and quit messages](features/join-and-quit-messages.md)
