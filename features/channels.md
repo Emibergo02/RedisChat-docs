@@ -4,6 +4,16 @@ description: A system to reach a group of player ("multicast")
 
 # 🎭 Channels
 
+### How can I see messages from a specific channel?
+
+You need to have the permission `redischat.channel.channelName`&#x20;
+
+For example, to see messages from the "public" channel it's`redischat.channel.public`
+
+### How can I write in a channel?
+
+You have to click on the channel button inside the GUI below
+
 ## Commands
 
 ### /channel or /channels or /ch
