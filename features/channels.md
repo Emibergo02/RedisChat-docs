@@ -28,7 +28,7 @@ Rate-limit is the message limit every "rate-limit-seconds" seconds
 
 If you put filtered on true you will moderate the messages through the word-blacklist inside config.yml
 
-Proximity (to be implemented) : how many blocks away from the sender the message will be sent
+[Proximity: how many blocks away from the sender the message will be sent](local-proximity-chat.md)
 
 
 
@@ -47,3 +47,9 @@ Enables a channel for a player
 ### /channel disable \<playerName> \<channelName>
 
 Disables a channel for a player
+
+
+
+### /channel force-listen \<playerName> \<channelName>
+
+Force a player to write inside a channel

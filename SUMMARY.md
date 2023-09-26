@@ -17,8 +17,9 @@
 
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
 * [🎭 Channels](features/channels.md)
-* [💭 Private messages](features/private-messages.md)
+* [🔖 Local "Proximity" chat](features/local-proximity-chat.md)
 * [@      Mentions](features/mentions.md)
+* [💭 Private messages](features/private-messages.md)
 * [💬 Chat formats](features/chat-formats.md)
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
 * [🔊 Broadcast messages](features/broadcast-messages.md)
