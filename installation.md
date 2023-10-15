@@ -16,8 +16,6 @@ layout:
 
 ### Requirements:
 
-A Redis server is installed and ready to use [(Click here for a guide on how to install quickly redis)](https://github.com/Emibergo02/RedisEconomy/wiki/Install-redis)
-
 Spigot/Paper server at least 1.16.x
 
 PlaceholderAPI installed
