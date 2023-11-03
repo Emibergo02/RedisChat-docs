@@ -32,7 +32,7 @@ To enable this feature you need to :
 # You can find the Discord channel id by right clicking on the channel and clicking on 'Copy ID'
 spicord:
   enabled: true
-  chatFormat: '<blue>[Discord]</blue> %username% » %message%'
+  chatFormat: '<blue>[Discord]</blue>%role% %username% » %message%'
   discordFormat: '**%channel%** %sender% » %message%'
   spicordChannelLink:
     public: '502465727593447434'
