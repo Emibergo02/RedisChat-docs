@@ -15,6 +15,7 @@
 
 ## Features
 
+* [🐨 Discord hook](features/discord-hook.md)
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
 * [🎭 Channels](features/channels.md)
 * [🔖 Local "Proximity" chat](features/local-proximity-chat.md)
