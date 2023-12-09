@@ -12,6 +12,8 @@ The player name field is suggested by RedisChat starting from all the player nam
 
 The command toggles the ignore of a player
 
+### use `/ignore all` to **ignore ALL incoming private messages**
+
 ## Configs
 
 ignoring\_list, ignoring\_player, not\_ignoring\_player
