@@ -24,4 +24,14 @@ If you're using a communication system based on PluginMessages (not recommended)
 
 You will have problems with the quit message sending because of the limitation that PluginMessages have (they need at least a player online to work)
 
-So please use Redis if you need this feature
+If you want to hide join/quit messages from players set them to&#x20;
+
+```yaml
+formats:
+- permission: redischat.default
+# The rest of the config section ...
+  join_format: ""
+  quit_format: ""
+```
+
+Or use the permission redischat.joinquit ("true" by default) by setting it to "false"
