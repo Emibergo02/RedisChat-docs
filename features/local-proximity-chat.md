@@ -10,7 +10,7 @@ To create a local chat use
 
 **local** would be the name of the local channel
 
-[**3** and 5 are the rate-limit and rate-limit-seconds parameters](channels.md#channel-create-less-than-channelname-greater-than-less-than-rate-limit-greater-than-less-than-rate-l)
+[**3** and 5 are the rate-limit and rate-limit-seconds parameters](channels/#channel-create-less-than-channelname-greater-than-less-than-rate-limit-greater-than-less-than-rate-l)
 
 **true** is the filter parameter (if the chat should be filtered through the regex-blacklist list inside config.yml)
 

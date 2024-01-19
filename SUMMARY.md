@@ -16,7 +16,8 @@
 ## Features
 
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
-* [🎭 Channels](features/channels.md)
+* [🎭 Channels](features/channels/README.md)
+  * [🤐 Mute chat](features/channels/mute-chat.md)
 * [🔖 Local "Proximity" chat](features/local-proximity-chat.md)
 * [@      Mentions](features/mentions.md)
 * [💭 Private messages](features/private-messages.md)

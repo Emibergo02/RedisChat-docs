@@ -20,7 +20,7 @@ You have to click on the channel button inside the GUI below
 
 Opens the channels GUI
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Channel GUI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Channel GUI</p></figcaption></figure>
 
 ### /channel create \<channelName> \<rate-limit> \<rate-limit-seconds> \<filtered> \[discordWebhook] \[proximityDistance]
 
@@ -28,7 +28,7 @@ Rate-limit is the message limit every "rate-limit-seconds" seconds
 
 If you put filtered on true you will moderate the messages through the word-blacklist inside config.yml
 
-[Proximity: how many blocks away from the sender the message will be sent](local-proximity-chat.md)
+[Proximity: how many blocks away from the sender the message will be sent](../local-proximity-chat.md)
 
 
 

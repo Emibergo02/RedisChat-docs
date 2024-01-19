@@ -23,13 +23,13 @@ announces (list)
 ```yaml
 # Announcer configurations
 # delay and interval are in seconds
-# If you want to disable an announce, remove it from the list (announces: [])
+# If you want to disable an announcement, remove it from the list (announces: [])
 # Remember that in yaml [] is an empty list
-# If you specify a permission, only players with that permission will see the announce. Keep it empty to make it public
+# If you specify a permission, only players with that permission will see the announcement. Keep it empty to make it public
 announces:
 - announceName: default
-  message: '<red>RedisChat Announce: <br><white>lorem ipsum dolor sit amet'
-  permission: ''
+  message: '<red>RedisChat Announcement: <br><white>lorem ipsum dolor sit amet'
+  channelName: 'public' #The channel on which the announcement will be sent
   delay: 5
   interval: 300
 ```
