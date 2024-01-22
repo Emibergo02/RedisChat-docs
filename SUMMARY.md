@@ -16,8 +16,7 @@
 ## Features
 
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
-* [🎭 Channels](features/channels/README.md)
-  * [🤐 Mute chat](features/channels/mute-chat.md)
+* [🎭 Channels](features/channels.md)
 * [🔖 Local "Proximity" chat](features/local-proximity-chat.md)
 * [@      Mentions](features/mentions.md)
 * [💭 Private messages](features/private-messages.md)
@@ -27,6 +26,7 @@
 * [📢 Announce system](features/announce-system.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [🐨 Discord hook](features/discord-hook.md)
+* [🤐 Mute chat](features/mute-chat.md)
 * [😎 Join and quit messages](features/join-and-quit-messages.md)
 * [🗒 Clear chat](features/clear-chat.md)
 * [📀 Oraxen & ItemsAdder placeholders](features/oraxen-and-itemsadder-placeholders.md)
