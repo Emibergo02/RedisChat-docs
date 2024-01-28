@@ -23,7 +23,7 @@
 * [💬 Chat formats](features/chat-formats.md)
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
 * [🔊 Broadcast messages](features/broadcast-messages.md)
-* [📢 Announce system](features/announce-system.md)
+* [📢 Announcement system](features/announcement-system.md)
 * [🤬 Chat filter and censorship](features/chat-filter-and-censorship.md)
 * [🐨 Discord hook](features/discord-hook.md)
 * [🤐 Mute chat](features/mute-chat.md)
