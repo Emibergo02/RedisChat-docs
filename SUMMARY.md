@@ -4,6 +4,7 @@
 * [📩 Installation](installation.md)
 * [🚰 LINKS](links.md)
 * [🎓 Advanced use-case](advanced-use-case.md)
+* [Disable CMI or EssentialsX chat!](disable-cmi-or-essentialsx-chat.md)
 
 ## UNIQUE FEATURES
 
@@ -12,6 +13,7 @@
 * [#⃣ Custom placeholders](unique-features/custom-placeholders.md)
 * [🔗 URLs formatting](features/urls-formatting.md)
 * [📧 Mails](unique-features/mails.md)
+* [⛓ Keep chat (1.20.2+)](unique-features/keep-chat-1.20.2+.md)
 
 ## Features
 

@@ -12,6 +12,18 @@ Just write in chat the name of an online player and it will be formatted as defi
 
 ## Configs
 
+mentionSound ->
+
+{% code title="config.yml" %}
+```yaml
+# Format id:volume:pitch
+# You can find the list of sounds here: 
+# https://jd.papermc.io/paper/1.20/org/bukkit/Sound.html
+# Leave it empty "" to disable the sound
+mentionSound: ENTITY_EXPERIENCE_ORB_PICKUP:1:1
+```
+{% endcode %}
+
 [formats](chat-formats.md) (list) ->&#x20;
 
 ```yaml
