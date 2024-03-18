@@ -26,7 +26,7 @@
 * [🔇 Ignore private messages](features/ignore-private-messages.md)
 * [🔊 Broadcast messages](features/broadcast-messages.md)
 * [📢 Announcement system](features/announcement-system.md)
-* [🤬 ANTISPAM/ANTIFLOOD](features/antispam-antiflood.md)
+* [🤬 ANTISWEAR/ANTIFLOOD](features/antiswear-antiflood.md)
 * [🐨 Discord hook](features/discord-hook.md)
 * [🤐 Mute chat](features/mute-chat.md)
 * [😎 Join and quit messages](features/join-and-quit-messages.md)
