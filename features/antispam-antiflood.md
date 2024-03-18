@@ -2,7 +2,7 @@
 description: Filter words
 ---
 
-# 🤬 Chat filter and censorship
+# 🤬 ANTISPAM/ANTIFLOOD
 
 Censor bad words in chat replacing them with asterisk
 
@@ -22,3 +22,15 @@ regex_blacklist:
 ```
 
 [https://regexr.com/](https://regexr.com/) - This could be useful. Select PCRE as Regex Engine (top right of the page)
+
+### Rate limit
+
+{% code title="config.yml" %}
+```yaml
+# Here you can set the number of messages that a player can send without being rate limited
+rate_limit: 1
+# Here you can set the time in seconds that a player can send the number of messages specified in rate_limit
+rate_limit_time_seconds: 2
+```
+{% endcode %}
+
