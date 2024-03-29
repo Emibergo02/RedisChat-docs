@@ -14,6 +14,17 @@ You can create a webhook for a channel with the command&#x20;
 
 The webhook link can be obtained in: Discord channel settings -> Integrations -> Create webhook
 
+For public and staffchat webhooks you can configure them
+
+{% code title="config.yml" %}
+```yaml
+# The discord webhook of the public chat
+publicDiscordWebhook: 'https://discord.com/api/webhooks/1223270324200669194/yourtoken'
+# The discord webhook of the staff chat
+staffChatDiscordWebhook: ''
+```
+{% endcode %}
+
 ***
 
 ## Spicord hook
