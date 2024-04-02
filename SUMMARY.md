@@ -8,15 +8,17 @@
 
 ## UNIQUE FEATURES
 
+* [🥡 Custom PlaceholderAPI placeholders](unique-features/custom-placeholderapi-placeholders.md)
 * [🖥️ Display items in chat](features/display-items-in-chat.md)
 * [📝 WebUI to edit configs](unique-features/webui-to-edit-configs.md)
-* [#️⃣ Custom placeholders](unique-features/custom-placeholders.md)
+* [#️⃣ Emoji placeholders](unique-features/emoji-placeholders.md)
 * [🔗 URLs formatting](features/urls-formatting.md)
 * [📧 Mails](unique-features/mails.md)
-* [⛓️ Keep chat (1.20.2+)](unique-features/keep-chat-1.20.2+.md)
+* [🚫 Ignore public messages](unique-features/ignore-public-messages.md)
 
 ## Features
 
+* [🎨 Chat color](features/chat-color.md)
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
 * [🎭 Channels](features/channels.md)
 * [🔖 Local "Proximity" chat](features/local-proximity-chat.md)
