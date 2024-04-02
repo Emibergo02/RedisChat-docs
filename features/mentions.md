@@ -2,7 +2,7 @@
 description: Mention other players
 ---
 
-# @      Mentions
+# 🐌 @Mentions
 
 The mentioned player will receive a sound notification and a title _(todo)_
 
