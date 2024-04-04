@@ -6,17 +6,19 @@ description: Broadcasts a message to all players connected through RedisChat
 
 ## Commands
 
-### /broadcast \<message>
+### /broadcast \<channelName> \<message>
 
-You can use it with **`redischat.broadcast`** permission.&#x20;
+You can use it with **`redischat.broadcast`** permission.
 
 The message field can be formatted with MiniMessage
 
-### /broadcastraw \<message>
+### /broadcastraw \<channelName> \<message>
 
 You can use it with **`redischat.broadcastraw`** permission.&#x20;
 
-The same as /broadcast but without `broadcast_format`
+It is the same as /broadcast but without `broadcast_format`
+
+### Use "public" as a channel name if you want to send it to all players
 
 ## Configs
 
