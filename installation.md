@@ -16,7 +16,7 @@ layout:
 
 ### Requirements:
 
-Spigot/Paper server at least 1.16.x
+Spigot/Paper server at least 1.17.x
 
 PlaceholderAPI installed
 
