@@ -36,4 +36,4 @@ formats:
 
 ### Permission
 
-Use the permission redischat.joinquit ("true" by default) by setting it to "false"
+Use the permission redischat.joinquit ("true" by default) to show join and quit messages
