@@ -34,4 +34,6 @@ formats:
   quit_format: ""
 ```
 
-Or use the permission redischat.joinquit ("true" by default) by setting it to "false"
+### Permission
+
+Use the permission redischat.joinquit ("true" by default) by setting it to "false"
