@@ -24,7 +24,7 @@ enableMails: true
 You can use it with <mark style="color:yellow;">`redischat.mail.write`</mark> permission\
 <mark style="color:yellow;">`redischat.mail.writepublic`</mark> for public mails
 
-* After you execute this command there would be a clickable message in the chat
+* After you run this command, a clickable message will appear in the chat.
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
 * When you’re done editing, click the save button: **a command will be copied to your clipboard**
 
