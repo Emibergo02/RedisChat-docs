@@ -26,11 +26,11 @@ You can use it with <mark style="color:yellow;">`redischat.mail.write`</mark> pe
 
 * After you execute this command there would be a clickable message in the chat
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
-* When you finished the editing click on the save button
+* When you’re done editing, click the save button: **a command will be copied to your clipboard**
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
 
-* Clicking on that button will copy a command to be executed on chat/console
+* Then paste and execute the command in-game and choose one of the three options
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Chat GUI on mail send</p></figcaption></figure>
 
