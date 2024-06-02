@@ -13,9 +13,16 @@ enableMails: true
 
 ## Commands
 
-### /rmail send playerName mailTitle (or /mail playerName mailTitle)
+<div align="center">
 
-You can use it with `redischat.mail.write` permission.&#x20;
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>The send command</p></figcaption></figure>
+
+</div>
+
+### <mark style="color:orange;">`/rmail (or /mail) send playerName mail-title`</mark>
+
+You can use it with <mark style="color:yellow;">`redischat.mail.write`</mark> permission\
+<mark style="color:yellow;">`redischat.mail.writepublic`</mark> for public mails
 
 * After you execute this command there would be a clickable message in the chat
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
@@ -29,15 +36,31 @@ You can use it with `redischat.mail.write` permission.&#x20;
 
 * By clicking _Confirm_ you will send the mail to the recipient
 
-### Public messages:
+## <mark style="color:orange;">`/rmail`</mark>
 
-To send public messages use /rmail send #Public mailTitle
+Permission: <mark style="color:yellow;">`redischat.mail.read`</mark>
 
-## /rmail
+```
+redischat.mail.read
+```
 
 Executing only /rmail opens a GUI with all your mails
 
-<figure><img src="../.gitbook/assets/bbMSOUt - Imgur.png" alt=""><figcaption><p>Mail GUI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="397"><figcaption><p>Mail window</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Mail preview inside lore</p></figcaption></figure>
+
+## Mail options
+
+By right-clicking a mail you can delete it or mark it as unread
+
+<figure><img src="../.gitbook/assets/image (11).png" alt="" width="415"><figcaption><p>Mail option preview</p></figcaption></figure>
+
+### Mail options permissions
+
+* `redischat.mail.delete` - With this perm you can delete your PRIVATE mails
+* `redischat.mail.deletepublic` - With this perm you can delete your PUBLIC mails
+* `redischat.mail.unread`- With this perm you can unread any mail
 
 ## /redischat-setitem \<item\_name>
 

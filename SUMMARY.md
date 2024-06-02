@@ -34,5 +34,6 @@
 * [😎 Join and quit messages](features/join-and-quit-messages.md)
 * [🗒️ Clear chat](features/clear-chat.md)
 * [📀 Oraxen & ItemsAdder placeholders](features/oraxen-and-itemsadder-placeholders.md)
+* [⌨️ Chat completions](features/chat-completions.md)
 * [📊 Telemetry system](features/telemetry-system.md)
 * [⭐ Staff chat](features/staff-chat.md)
