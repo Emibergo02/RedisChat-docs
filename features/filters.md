@@ -2,6 +2,8 @@
 
 ### Filters are made to modify or block messages with malicious content or to apply certain RedisChat features
 
+To disable a filter for a user set the permission <mark style="color:orange;">**`redischat.bypassfilter.filterName`**</mark>
+
 {% code title="filters.yml" %}
 ```yaml
 ignorePlayer:
@@ -17,15 +19,11 @@ ignorePlayer:
 ```
 {% endcode %}
 
-### enabled
-
-Used to enable or disable this specific filter
-
-### priority
+## Priority
 
 Filters will be applied to messages in order of priority starting from 1
 
-### audienceWhitelist
+## Audience Whitelist
 
 There are 3 audiences inside RedisChat:
 
@@ -35,7 +33,7 @@ There are 3 audiences inside RedisChat:
 
 #### If audienceWhitelist is empty the filter will be applied to all 3 the audiences
 
-### channelWhitelist
+## Channel Whitelist
 
 If the message is sent to a channel audience, the filter will work only for channels specified\
 inside channelWhitelist
