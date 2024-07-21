@@ -18,10 +18,8 @@ formats (list)
 # (if a player has default and vip, if default is the first element, vip will be ignored)
 formats:
 - permission: redischat.default
-  format: '<click:suggest_command:/msg %player_name%><hover:show_text:''<reset>Information
-    | <white>%player_displayname%<br><gold><bold>➧</bold> Money<reset>: <white>%vault_eco_balance%
-    <gold>✵<br><br><reset><underlined>Click to send a message''><white><gradient:yellow:blue>RGB</gradient>
-    - %player_name% </click> <dark_gray>» <reset>%message%'
+  format: '{time} {ignorebtn} {mailbtn} {player} <dark_gray> » %redischat_chatcolor%
+    {message}'
   private_format: '<dark_aqua>MSG <white>(<reset>You <white>to <green>%receiver%<white>)<reset>:
     <white>%message%'
   receive_private_format: '<dark_aqua>MSG <white>(<green>%sender% <white>to <reset>You<white>)<reset>:
@@ -37,7 +35,7 @@ formats:
 
 example: If i have `redischat.admin` and `redischat.default` i need to put the "admin" formatting under the "default" one in the **`formats`** key list
 
-#### format - is the normal chat formatting
+#### format - is the normal chat formatting (see more here -> [components.md](components.md "mention"))
 
 %player\_name% - is the sender's name
 

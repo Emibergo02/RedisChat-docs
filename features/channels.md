@@ -6,13 +6,16 @@ description: A system to reach a group of player ("multicast")
 
 ### How can I see messages from a specific channel?
 
-You need to have the permission `redischat.channel.channelName`&#x20;
+You need to have the permission <mark style="color:orange;">`redischat.channel.channelName`</mark> to read and write on the channel
 
-For example, to see messages from the "public" channel it's`redischat.channel.public`
+If you want to give only read permission, it is <mark style="color:orange;">`redischat.channel.channelName.read`</mark>\
+The same with write permission:                       <mark style="color:orange;">`redischat.channel.channelName.write`</mark>
 
-### How can I write in a channel?
+For example, to read and write on the "public" channel it's <mark style="color:orange;">`redischat.channel.public`</mark>
 
-You have to click on the channel button inside the GUI below
+If you want to hide a channel from a player, use: <mark style="color:orange;">`redischat.hidechannel.channelName`</mark>
+
+
 
 ## Commands
 
@@ -35,20 +38,6 @@ If you put filtered on true you will moderate the messages through the word-blac
 ### /channel setformat \<chat message format>
 
 You can use Minimessage Viewer to edit the format
-
-
-
-### /channel enable \<playerName> \<channelName>
-
-Enables a channel for a player
-
-
-
-### /channel disable \<playerName> \<channelName>
-
-Disables a channel for a player
-
-
 
 ### /channel force-listen \<playerName> \<channelName>
 

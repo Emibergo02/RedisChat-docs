@@ -18,6 +18,8 @@
 
 ## Features
 
+* [🥅 Filters](features/filters.md)
+* [☄️ Components](features/components.md)
 * [🎨 Chat color](features/chat-color.md)
 * [🧭 Legacy color codes](features/legacy-color-codes.md)
 * [🎭 Channels](features/channels.md)

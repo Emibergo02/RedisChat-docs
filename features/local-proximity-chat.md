@@ -18,5 +18,5 @@ To create a local chat use
 
 A distance equal to or lower than 0 would disable the proximity feature.
 
-If you want to have a chat for the whole server/world set distance to 2000000000
+#### If you want to have a chat for the whole server/world set distance to the world size (like 2 million)
 
