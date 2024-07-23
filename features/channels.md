@@ -6,14 +6,15 @@ description: A system to reach a group of player ("multicast")
 
 ### How can I see messages from a specific channel?
 
-You need to have the permission <mark style="color:orange;">**`redischat.channel.channel-name`**</mark> to read and write on the channel
+You need to have the permission <mark style="color:orange;">**`redischat.channel.channel-name`**</mark> to **read and write** on the channel
 
-If you want to give only read permission, it is <mark style="color:orange;">`redischat.channel.channel-name.read`</mark>\
-The same with write permission:                       <mark style="color:orange;">`redischat.channel.channel-name.write`</mark>
+If you want to give only **read** permission, it is <mark style="color:orange;">`redischat.channel.channel-name.read`</mark>
+
+The same with **write** permission:                    <mark style="color:orange;">`redischat.channel.channel-name.write`</mark>
 
 For example, to read and write on the "public" channel it's <mark style="color:orange;">`redischat.channel.public`</mark>
 
-If you want to hide a channel from a player, use: <mark style="color:orange;">`redischat.hidechannel.channel-name`</mark>
+If you want to **hide** a channel from a player, use: <mark style="color:orange;">`redischat.hidechannel.channel-name`</mark>
 
 
 
