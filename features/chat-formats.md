@@ -21,7 +21,7 @@ formats:
   format: '{time} {ignorebtn} {mailbtn} {player} <dark_gray> » %redischat_chatcolor%
     {message}'
   private_format: '<dark_aqua>MSG <white>(<reset>You <white>to <green>%receiver%<white>)<reset>:
-    <white>%message%'
+    <white>{message%'
   receive_private_format: '<dark_aqua>MSG <white>(<green>%sender% <white>to <reset>You<white>)<reset>:
     <white>%message%'
   inventory_format: <click:run_command:%command%>[Open the inventory of %player%]</click>

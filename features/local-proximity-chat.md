@@ -6,7 +6,7 @@ description: Write messages to players nearby
 
 To create a local chat use
 
-### **/channel create local 3 5 true \<distance>**
+### <mark style="color:orange;">**`/channel create local 3 5 true <distance>`**</mark>
 
 **local** would be the name of the local channel
 
