@@ -4,7 +4,7 @@
 * [📩 Installation](installation.md)
 * [🚰 LINKS](links.md)
 * [🎓 Advanced use-case](advanced-use-case.md)
-* [Disable CMI or EssentialsX chat!](disable-cmi-or-essentialsx-chat.md)
+* [Common issues](common-issues.md)
 
 ## UNIQUE FEATURES
 
