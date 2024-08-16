@@ -6,11 +6,10 @@ description: A system to reach a group of player ("multicast")
 
 ### How can I see messages from a specific channel?
 
-You need to have the permission <mark style="color:orange;">**`redischat.channel.channel-name`**</mark> to **read and write** on the channel
-
-If you want to give only **read** permission, it is <mark style="color:orange;">`redischat.channel.channel-name.read`</mark>
-
-The same with **write** permission:                    <mark style="color:orange;">`redischat.channel.channel-name.write`</mark>
+You need to have read and/or write permission for the channel:\
+<mark style="color:orange;">**`redischat.channel.channel-name`**</mark>                     ->  Read AND write\
+<mark style="color:orange;">**`redischat.channel.channel-name.read`**</mark>          ->  Read\
+<mark style="color:orange;">**`redischat.channel.channel-name.write`**</mark>        ->  Write
 
 For example, to read and write on the "public" channel it's <mark style="color:orange;">`redischat.channel.public`</mark>
 
@@ -26,13 +25,21 @@ Opens the channels GUI
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Channel GUI</p></figcaption></figure>
 
-### <mark style="color:orange;">`/channel create <channelName> <rate-limit> <rate-limit-seconds> <filtered> [discordWebhook] [proximityDistance]`</mark>
+### <mark style="color:orange;">`/channel create <channelName> <rate-limit> <rate-limit-seconds> <filtered> [proximityDistance] [discordWebhook] [shown-by-default] [permission-required]`</mark>
 
-Rate-limit is the message limit every "rate-limit-seconds" seconds
+<mark style="color:green;">Rate limit</mark> :   It's the message limit every "rate-limit-seconds" seconds
 
-If you put filtered on true you will moderate the messages through the word-blacklist inside config.yml
+<mark style="color:green;">Filtered</mark> :   Whether to filter out swear words or not (**word-blacklist inside config.yml**)
 
-[Proximity: how many blocks away from the sender the message will be sent](local-proximity-chat.md)
+<mark style="color:green;">Proximity</mark> : [local-proximity-chat.md](local-proximity-chat.md "mention")
+
+<mark style="color:green;">Discord webhook</mark> : [#webhooks](discord-hook.md#webhooks "mention")
+
+<mark style="color:green;">Shown by default</mark> :   If the channel is shown by default inside channels GUI or you need the \
+&#x20;                                     permission <mark style="color:orange;">`redischat.showchannel.channelName`</mark>
+
+<mark style="color:green;">Permission required</mark> :   Whether to apply permission requirements as specified at the start of the page\
+&#x20;                                          or not
 
 
 
@@ -43,3 +50,7 @@ You can use Minimessage Viewer to edit the format
 ### <mark style="color:orange;">`/channel force-listen <playerName> <channelName>`</mark>
 
 Force a player to write inside a channel
+
+### <mark style="color:orange;">`/channel setdisplayname <channelName> <displayName>`</mark>
+
+Permission <mark style="color:orange;">`redischat.changedisplayname`</mark> is required
