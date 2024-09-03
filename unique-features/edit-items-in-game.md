@@ -1,7 +1,5 @@
 # 🪁 Edit items in-game
 
-## &#x20;<a href="#redischat-setitem-less-than-item_name-greater-than" id="redischat-setitem-less-than-item_name-greater-than"></a>
-
 ## <mark style="color:orange;">`/redischat-setitem <item_name>`</mark> <a href="#redischat-setitem-less-than-item_name-greater-than" id="redischat-setitem-less-than-item_name-greater-than"></a>
 
 ### Use this command to transfer the item in your main hand to a specified GUI button.
