@@ -15,6 +15,7 @@
 * [🔗 URLs formatting](features/urls-formatting.md)
 * [📧 Mails](unique-features/mails.md)
 * [🚫 Ignore public messages](unique-features/ignore-public-messages.md)
+* [🪁 Edit items in-game](unique-features/edit-items-in-game.md)
 
 ## Features
 
