@@ -4,7 +4,26 @@ description: Write messages to players nearby
 
 # 🔖 Local "Proximity" chat
 
-To create a local chat use
+## Local public chat
+
+With "local" we mean that the public channel will be visible and writable by the whole server
+
+{% code title="config.yml" %}
+```yaml
+# Proximity chat settings
+# Set to -1 to disable proximity chat (normal cross-server chat)
+# Set to 0 to make it work for the whole local server
+# Set to a positive number to check if a player is in the same server, same world and below the specified distance
+# The number is the distance in blocks
+publicProximityDistance: -1
+```
+{% endcode %}
+
+Here you can set the public channel "mode"
+
+## A second local channel
+
+You can create a local channel unrelated to the public too
 
 ### <mark style="color:orange;">**`/channel create local 3 5 true <distance>`**</mark>
 

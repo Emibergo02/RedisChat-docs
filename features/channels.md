@@ -21,6 +21,8 @@ If you want to **hide** a channel from a player, use: <mark style="color:orange;
 
 ### <mark style="color:orange;">`/channel`</mark> or <mark style="color:orange;">`/channels`</mark> or <mark style="color:orange;">`/ch`</mark>
 
+You'll need <mark style="color:orange;">`redischat.channelgui`</mark> to open the GUI **(by default it is on true)**
+
 Opens the channels GUI
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Channel GUI</p></figcaption></figure>
