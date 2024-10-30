@@ -18,6 +18,20 @@ To deactivate the CMI chat, the values for ModifyChatFormat and&#x20;
 
 ClickHoverMessages **must be set to false** in `cmi/Settings/Chat.yml`
 
+## RedisChat overrides other plugins
+
+For example, when using AdvancedBans you want to mute players but the chat works anyway.
+
+You need to change the listener priority to something higher than AdvancedBan's priority
+
+{% code title="config.yml" %}
+```yaml
+# The priority of the listening event (LOWEST, LOW, NORMAL, HIGH, HIGHEST, MONITOR)
+# adjust this if other plugins are interfering with RedisChat
+listeningPriority: NORMAL #Set this to HIGHEST or MONITOR
+```
+{% endcode %}
+
 ## Chat message validation failure
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
