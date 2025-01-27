@@ -2,7 +2,7 @@
 description: Filter words
 ---
 
-# 🤬 ANTISPAM/ANTIFLOOD
+# 🤬 ANTISWEAR/ANTIFLOOD
 
 Censor bad words in chat replacing them with asterisk
 
@@ -23,7 +23,7 @@ regex_blacklist:
 
 [https://regexr.com/](https://regexr.com/) - This could be useful. Select PCRE as Regex Engine (top right of the page)
 
-### Rate limit
+### Rate limit or cooldown
 
 {% code title="config.yml" %}
 ```yaml
