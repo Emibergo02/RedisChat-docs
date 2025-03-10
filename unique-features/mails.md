@@ -13,13 +13,9 @@ enableMails: true
 
 ## Commands
 
-<div align="center">
+<div align="center"><figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>The send command</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>The send command</p></figcaption></figure>
-
-</div>
-
-### <mark style="color:orange;">`/rmail (or /mail) send playerName mail-title`</mark>
+### <mark style="color:orange;">`/rmail (or /mail) send <playerName/-Public> mail-title`</mark>
 
 You can use it with <mark style="color:yellow;">`redischat.mail.write`</mark> permission\
 <mark style="color:yellow;">`redischat.mail.writepublic`</mark> for public mails
