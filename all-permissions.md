@@ -19,59 +19,59 @@ layout:
   <mark style="color:orange;">`redischat.chatcolor.<chatcolor>`</mark> to use specific chat colors (Minimessage tags)
 * <mark style="color:orange;">`redischat.setitem`</mark> Allows to use the /setitem command.
 * <mark style="color:orange;">`redischat.talkon`</mark> Allows to use the /talkon command.
-* **redischat.ignore:** Allows to use the /ignore command.
-* **redischat.clearchat:** Allows to use the /clearchat command.
-* **redischat.spycommand:** Allows to use the /spychat command.
-* **redischat.spycommand.other:** Allows to use the /spychat command others.
+* <mark style="color:orange;">`redischat.ignore:`</mark> Allows to use the /ignore command.
+* <mark style="color:orange;">`redischat.clearchat:`</mark> Allows to use the /clearchat command.
+* <mark style="color:orange;">`redischat.spycommand:`</mark> Allows to use the /spychat command.
+* <mark style="color:orange;">`redischat.spycommand.other:`</mark> Allows to use the /spychat command others.
 * <mark style="color:orange;">`redischat.setchatplaceholder`</mark> Allows to use[#setchatplaceholders-less-than-player-greater-than-less-than-placeholder-greater-than-less-than-value](unique-features/custom-placeholderapi-placeholders.md#setchatplaceholders-less-than-player-greater-than-less-than-placeholder-greater-than-less-than-value "mention")
-* **redischat.channelgui:** Allows to open the /channel GUI.
-* **redischat.listchannel:** Allows to list channels.
-* **redischat.mutechannel:** Allows to mute channels.
-* **redischat.joinquit:** Allows to see the join and quit messages.
-* **redischat.use\_emoji:** Allows to use [emoji-placeholders.md](unique-features/emoji-placeholders.md "mention")
-* **redischat.showitem:** Allows to see the item in the chat.
-* **redischat.showinv:** Allows to see the inventories in the chat.
-* **redischat.showenderchest:** Allows to see the enderchests in the chat.
-* **redischat.spychat:** You are spying the chat if it is true.
-* **redischat.useformatting:** Allows to use minimessage formatting and PlaceholderAPI placeholders in chat. Some dangerous MiniMessage tags are denied. to allow the use of dangerous tags use the permission below
+* <mark style="color:orange;">`redischat.channelgui:`</mark> Allows to open the /channel GUI.
+* <mark style="color:orange;">`redischat.listchannel:`</mark> Allows to list channels.
+* <mark style="color:orange;">`redischat.mutechannel:`</mark> Allows to mute channels.
+* <mark style="color:orange;">`redischat.joinquit:`</mark> Allows to see the join and quit messages.
+* <mark style="color:orange;">`redischat.use\_emoji:`</mark> Allows to use [emoji-placeholders.md](unique-features/emoji-placeholders.md "mention")
+* <mark style="color:orange;">`redischat.showitem:`</mark> Allows to see the item in the chat.
+* <mark style="color:orange;">`redischat.showinv:`</mark> Allows to see the inventories in the chat.
+* <mark style="color:orange;">`redischat.showenderchest:`</mark> Allows to see the enderchests in the chat.
+* <mark style="color:orange;">`redischat.spychat:`</mark> You are spying the chat if it is true.
+* <mark style="color:orange;">`redischat.useformatting:`</mark> Allows to use minimessage formatting and PlaceholderAPI placeholders in chat. Some dangerous MiniMessage tags are denied. to allow the use of dangerous tags use the permission below
 * <mark style="color:orange;">`redischat.usedangeroustags`</mark> Allows the use of potentially dangerous formatting tags in messages such as \<click:run\_command> tag
-* **redischat.broadcast:** Allows to use the /broadcast command.
-* **redischat.broadcastraw:** Allows to use the /broadcastraw command.
-* **redischat.chatas:** Allows to use the /chatas command.
-* **redischat.message:** Allows to use the /msg command.
-* **redischat.staffchat:** Allows to use the /staffchat command.
-* **redischat.bypass\_rate\_limit:** Bypasses the rate limit.
-* **redischat.bypassfilter.caps:** Allows to bypass the caps filter.
-* **redischat.bypassfilter.duplicate:** Allows to bypass the caps filter.
-* **redischat.bypassfilter.spam:** Allows to bypass the spam filter.
-* **redischat.bypassfilter.discord:** Allows to bypass the discord filter.
-* **redischat.bypassfilter.ignore\_player:** Allows to bypass the ignore player filter.
-* **redischat.bypassfilter.muted\_channel:** Allows to bypass the muted channel filter.
-* **redischat.bypassfilter.private:** Allows to bypass the private filter.
-* **redischat.bypassfilter.ignore:** Allows to bypass the ignore filter.
-* **redischat.bypassfilter.tag:** Allows to bypass the tag filter.
-* **redischat.bypassfilter.word\_blacklist:** Allows to bypass the word blacklist filter.
-* **redischat.bypassfilter.permission:** Allows to bypass the permission filter.
-* **redischat.admin:** Allows to use the /redischat command.
-* **redischat.default:** Allows you to use default commands.
-* **redischat.mail.write:** Allows a user to write and send mail messages within the RedisChat system.
-* **redischat.mail.writepublic:** Permits writing mails that are public (visible to more than just the sender and recipient).
-* **redischat.mail:** Grants permission to read incoming mail messages.
-* **redischat.mail.delete:** Allows deletion of received mail.
-* **redischat.mail.deletepublic:** Permits deletion of public mails.
-* **redischat.mail.unread:** Enables a user to view or get notifications of unread mail messages.
-* **redischat.ignore\_whitelist:** Allows bypassing of restrictions imposed by an ignore whitelist.
-* **redischat.announcer:** Allows the use of [#announcer-less-than-start-stop-greater-than-less-than-announcementname-greater-than](features/announcement-system.md#announcer-less-than-start-stop-greater-than-less-than-announcementname-greater-than "mention")
-* **redischat.editmessage:** Allows editing of messages after they have been sent.
-* **redischat.channel.staffchat:** Specifically grants access to the staff chat channel.
-* **redischat.createchannel:** Allows the creation of new chat channels.
-* **redischat.infochannel:** Permits viewing detailed information about a channel.
-* **redischat.changedisplayname:** Allows changing a channel’s display name.
-* **redischat.deletechannel:** Enables deletion of chat channels.
-* **redischat.playerchannel:** Allows players to force another player's active channel [#channel-force-listen-less-than-playername-greater-than-less-than-channelname-greater-than](features/channels.md#channel-force-listen-less-than-playername-greater-than-less-than-channelname-greater-than "mention")
-* **redischat.hidechannel.\<channelName>**: Hides a channel from the GUI if the channel is displayed by default
+* <mark style="color:orange;">`redischat.broadcast:`</mark> Allows to use the /broadcast command.
+* <mark style="color:orange;">`redischat.broadcastraw:`</mark> Allows to use the /broadcastraw command.
+* <mark style="color:orange;">`redischat.chatas:`</mark> Allows to use the /chatas command.
+* <mark style="color:orange;">`redischat.message:`</mark> Allows to use the /msg command.
+* <mark style="color:orange;">`redischat.staffchat:`</mark> Allows to use the /staffchat command.
+* <mark style="color:orange;">`redischat.bypass\_rate\_limit:`</mark> Bypasses the rate limit.
+* <mark style="color:orange;">`redischat.bypassfilter.caps:`</mark> Allows to bypass the caps filter.
+* <mark style="color:orange;">`redischat.bypassfilter.duplicate:`</mark> Allows to bypass the caps filter.
+* <mark style="color:orange;">`redischat.bypassfilter.spam:`</mark> Allows to bypass the spam filter.
+* <mark style="color:orange;">`redischat.bypassfilter.discord:`</mark> Allows to bypass the discord filter.
+* <mark style="color:orange;">`redischat.bypassfilter.ignore\_player:`</mark> Allows to bypass the ignore player filter.
+* <mark style="color:orange;">`redischat.bypassfilter.muted\_channel:`</mark> Allows to bypass the muted channel filter.
+* <mark style="color:orange;">`redischat.bypassfilter.private:`</mark> Allows to bypass the private filter.
+* <mark style="color:orange;">`redischat.bypassfilter.ignore:`</mark> Allows to bypass the ignore filter.
+* <mark style="color:orange;">`redischat.bypassfilter.tag:`</mark> Allows to bypass the tag filter.
+* <mark style="color:orange;">`redischat.bypassfilter.word\_blacklist:`</mark> Allows to bypass the word blacklist filter.
+* <mark style="color:orange;">`redischat.bypassfilter.permission:`</mark> Allows to bypass the permission filter.
+* <mark style="color:orange;">`redischat.admin:`</mark> Allows to use the /redischat command.
+* <mark style="color:orange;">`redischat.default:`</mark> Allows you to use default commands.
+* <mark style="color:orange;">`redischat.mail.write:`</mark> Allows a user to write and send mail messages within the RedisChat system.
+* <mark style="color:orange;">`redischat.mail.writepublic:`</mark> Permits writing mails that are public (visible to more than just the sender and recipient).
+* <mark style="color:orange;">`redischat.mail:`</mark> Grants permission to read incoming mail messages.
+* <mark style="color:orange;">`redischat.mail.delete:`</mark> Allows deletion of received mail.
+* <mark style="color:orange;">`redischat.mail.deletepublic:`</mark> Permits deletion of public mails.
+* <mark style="color:orange;">`redischat.mail.unread:`</mark> Enables a user to view or get notifications of unread mail messages.
+* <mark style="color:orange;">`redischat.ignore\_whitelist:`</mark> Allows bypassing of restrictions imposed by an ignore whitelist.
+* <mark style="color:orange;">`redischat.announcer:`</mark> Allows the use of [#announcer-less-than-start-stop-greater-than-less-than-announcementname-greater-than](features/announcement-system.md#announcer-less-than-start-stop-greater-than-less-than-announcementname-greater-than "mention")
+* <mark style="color:orange;">`redischat.editmessage:`</mark> Allows editing of messages after they have been sent.
+* <mark style="color:orange;">`redischat.channel.staffchat:`</mark> Specifically grants access to the staff chat channel.
+* <mark style="color:orange;">`redischat.createchannel:`</mark> Allows the creation of new chat channels.
+* <mark style="color:orange;">`redischat.infochannel:`</mark> Permits viewing detailed information about a channel.
+* <mark style="color:orange;">`redischat.changedisplayname:`</mark> Allows changing a channel’s display name.
+* <mark style="color:orange;">`redischat.deletechannel:`</mark> Enables deletion of chat channels.
+* <mark style="color:orange;">`redischat.playerchannel:`</mark> Allows players to force another player's active channel [#channel-force-listen-less-than-playername-greater-than-less-than-channelname-greater-than](features/channels.md#channel-force-listen-less-than-playername-greater-than-less-than-channelname-greater-than "mention")
+* <mark style="color:orange;">`redischat.hidechannel.\<channelName>`</mark>: Hides a channel from the GUI if the channel is displayed by default
 * <mark style="color:orange;">`redischat.showchannel.<channelName>`</mark> Shows a channel in the GUI if it is hidden by default
-* **redischat.channel.public:** Grants access to the public chat channel.
-* redischat.channel.\<channelName> Allows to read and write on a channel
-* redischat.channel.\<channelName>.read Allows to read a channel
-* redischat.channel.\<channelName>.write Allows to write on a channel
+* <mark style="color:orange;">`redischat.channel.public:`</mark> Grants access to the public chat channel.
+* <mark style="color:orange;">`redischat.channel.\<channelName>`</mark> Allows to read and write on a channel
+* <mark style="color:orange;">`redischat.channel.\<channelName>.read`</mark> Allows to read a channel
+* <mark style="color:orange;">`redischat.channel.\<channelName>.write`</mark> Allows to write on a channel
