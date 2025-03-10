@@ -1,9 +1,10 @@
 ---
+description: Useful for streamers
 layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -14,7 +15,7 @@ layout:
 
 # ◻️ Ignore whitelist
 
-<mark style="color:orange;">`/ignorewhitelist [targetPlayer>]`</mark>
+### <mark style="color:orange;">`/ignorewhitelist [targetPlayer>]`</mark>
 
 Permission: <mark style="color:orange;">`redischat.ignore_whitelist`</mark>\
 &#x20;                     <mark style="color:orange;">`redischat.ignore_whitelist.other`</mark> to toggle for other players
