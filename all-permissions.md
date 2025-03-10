@@ -41,15 +41,15 @@ layout:
 * <mark style="color:orange;">`redischat.message`</mark> Allows to use the /msg command.
 * <mark style="color:orange;">`redischat.staffchat`</mark> Allows to use the /staffchat command.
 * <mark style="color:orange;">`redischat.bypass_rate_limit`</mark> Bypasses the rate limit.
-* <mark style="color:orange;">`redischat.bypassfilter.caps`</mark> Allows to bypass the caps filter.
-* <mark style="color:orange;">`redischat.bypassfilter.duplicate`</mark> Allows to bypass the caps filter.
-* <mark style="color:orange;">`redischat.bypassfilter.spam`</mark> Allows to bypass the spam filter.
-* <mark style="color:orange;">`redischat.bypassfilter.discord`</mark> Allows to bypass the discord filter.
-* <mark style="color:orange;">`redischat.bypassfilter.ignore_player`</mark> Allows to bypass the ignore player filter.
+* <mark style="color:orange;">`redischat.bypassfilter.caps`</mark> Skips the caps filter.
+* <mark style="color:orange;">`redischat.bypassfilter.duplicate`</mark>Skips the duplicate filter.
+* <mark style="color:orange;">`redischat.bypassfilter.spam`</mark> Skips the spam (or rate-limit) filter \
+  (It's better to use redischat.bypass\_rate\_limit)
+* <mark style="color:orange;">`redischat.bypassfilter.discord`</mark> Allows to bypass the discord filter (Sends the message to Discord if the integration is enabled)
+* <mark style="color:orange;">`redischat.bypassfilter.ignore_player`</mark> Skips the ignore\_player filter. This filter works when a player receives a private message. The filter handles warning messages if the player is ignoring the sender or hides public messages if `ignoreChannelMessages` is enabled in filters.yml
 * <mark style="color:orange;">`redischat.bypassfilter.muted_channel`</mark> Allows to bypass the muted channel filter.
-* <mark style="color:orange;">`redischat.bypassfilter.private`</mark> Allows to bypass the private filter.
-* <mark style="color:orange;">`redischat.bypassfilter.ignore`</mark> Allows to bypass the ignore filter.
-* <mark style="color:orange;">`redischat.bypassfilter.tag`</mark> Allows to bypass the tag filter.
+* <mark style="color:orange;">`redischat.bypassfilter.ignore`</mark> Skips the ignore filter. This filter doesn't send the private message if the player is ignoring the receiver because the message couldn't reach him.
+* <mark style="color:orange;">`redischat.bypassfilter.tag`</mark> Skips the tag filter. This filter parses all minimessage tags and placeholders.
 * <mark style="color:orange;">`redischat.bypassfilter.word_blacklist`</mark> Allows to bypass the word blacklist filter.
 * <mark style="color:orange;">`redischat.bypassfilter.permission`</mark> Allows to bypass the permission filter.
 * <mark style="color:orange;">`redischat.admin`</mark> Allows to use all admin commands[ List HERE](https://github.com/Emibergo02/RedisChat/blob/67006ef03163e46f87b581668c7f5b6641443b79/src/main/resources/plugin.yml#L162)
