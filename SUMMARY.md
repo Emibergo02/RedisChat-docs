@@ -5,6 +5,7 @@
 * [🚰 LINKS](links.md)
 * [🎓 Advanced use-case](advanced-use-case.md)
 * [Common issues](common-issues.md)
+* [🖇️ ALL permissions](all-permissions.md)
 
 ## UNIQUE FEATURES
 
