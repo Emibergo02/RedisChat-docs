@@ -51,7 +51,7 @@ layout:
 * <mark style="color:orange;">`redischat.bypassfilter.ignore`</mark> Skips the ignore filter. This filter doesn't send the private message if the player is ignoring the receiver because the message couldn't reach him.
 * <mark style="color:orange;">`redischat.bypassfilter.tag`</mark> Skips the tag filter. This filter parses all minimessage tags and placeholders.
 * <mark style="color:orange;">`redischat.bypassfilter.word_blacklist`</mark> Allows to bypass the word blacklist filter.
-* <mark style="color:orange;">`redischat.bypassfilter.permission`</mark> Allows to bypass the permission filter.
+* <mark style="color:orange;">`redischat.bypassfilter.permission`</mark> Skips the channel permission filter (It checks the last 3 permissions of this page)
 * <mark style="color:orange;">`redischat.admin`</mark> Allows to use all admin commands[ List HERE](https://github.com/Emibergo02/RedisChat/blob/67006ef03163e46f87b581668c7f5b6641443b79/src/main/resources/plugin.yml#L162)
 * <mark style="color:orange;">`redischat.default`</mark> Allows you to use default commands [List HERE](https://github.com/Emibergo02/RedisChat/blob/67006ef03163e46f87b581668c7f5b6641443b79/src/main/resources/plugin.yml#L184)
 * <mark style="color:orange;">`redischat.mail.write`</mark> Allows a user to write and send mail messages within the RedisChat system.
