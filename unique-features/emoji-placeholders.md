@@ -2,7 +2,7 @@
 description: Create your tags to be used in chat
 ---
 
-# #⃣ Custom placeholders
+# #️⃣ #️⃣ Emoji placeholders
 
 Create content with custom Minimessage tags
 
@@ -43,4 +43,4 @@ placeholders:
 ```
 {% endcode %}
 
-Permission: `redischat.usecustomplaceholders`
+Permission: `redischat.use_emoji`
