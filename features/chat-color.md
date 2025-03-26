@@ -17,8 +17,6 @@ layout:
 **Permissions needed:**
 
 * <mark style="color:orange;">`redischat.chatcolor`</mark> to execute /chatcolor and see the GUI\
-  If you don't have this permission YOUR COLOR WILL BE RESET ON REJOIN \
-  (make sure the players have this permission if they want to keep their chatcolor)\
 
 * <mark style="color:orange;">`redischat.chatcolor.<chatcolor>`</mark> to use/see specific chat colors
 
@@ -37,7 +35,7 @@ enableChatColorGUI: true
 
 You need to have redischat.chatcolor
 
-## **/chatcolor \<color>**
+## **`/chatcolor <color>`**
 
 #### Examples
 
@@ -51,5 +49,7 @@ Take a look at [custom-placeholderapi-placeholders.md](../unique-features/custom
 
 You can put it before {message} inside formats section to color the text that follows
 
+## Chatcolor reset
 
+If the player doesn't have the permission to have the current color, (for example `redischat.chatcolor.blue`) the color will be reset on rejoin (in this case the player had the blue color and when it rejoins without the permission the color is set to "" (nothing)
 
