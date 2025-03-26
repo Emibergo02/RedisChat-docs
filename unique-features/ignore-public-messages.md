@@ -24,8 +24,4 @@ sendWarnWhenIgnoring: true
 
 ### This is the graphical interface
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>Player POV</strong></p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>Player POV</strong></p></figcaption></figure></div>

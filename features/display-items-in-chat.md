@@ -4,11 +4,7 @@ description: Send items in chat to flex muscles
 
 # 🖥️ Display items in chat
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>&#x3C;item> tag with a shulkerbox in hand</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>&#x3C;item> tag with a shulkerbox in hand</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>&#x3C;item> tag with a spawner on right hand</p></figcaption></figure>
 

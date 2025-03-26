@@ -24,7 +24,7 @@ You can use it with <mark style="color:yellow;">`redischat.mail.write`</mark> pe
 * That message links to a [**web editor**](https://webui.advntr.dev/) where you can modify your mail with MiniMessage format
 * When you’re done editing, click the save button: **a command will be copied to your clipboard**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The save button</p></figcaption></figure>
 
 * Then paste and execute the command in-game and choose one of the three options
 
