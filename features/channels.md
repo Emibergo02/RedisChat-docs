@@ -27,7 +27,7 @@ Opens the channels GUI
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Channel GUI</p></figcaption></figure>
 
-### <mark style="color:orange;">`/channel create <channelName> <rate-limit> <rate-limit-seconds> <filtered> [proximityDistance] [discordWebhook] [shown-by-default] [permission-required]`</mark>
+### <mark style="color:orange;">`/channel create <channelName> <rate-limit> <rate-limit-seconds> <filtered> [proximityDistance] [shown-by-default] [permission-required] [discordWebhook]`</mark>
 
 <mark style="color:green;">Rate limit</mark> :   It's the message limit every "rate-limit-seconds" seconds
 
@@ -35,13 +35,13 @@ Opens the channels GUI
 
 <mark style="color:green;">Proximity</mark> : [local-proximity-chat.md](local-proximity-chat.md "mention")
 
-<mark style="color:green;">Discord webhook</mark> : [#webhooks](discord-hook.md#webhooks "mention")
-
 <mark style="color:green;">Shown by default</mark> :   If the channel is shown by default inside channels GUI or you need the \
 &#x20;                                     permission <mark style="color:orange;">`redischat.showchannel.channelName`</mark>
 
 <mark style="color:green;">Permission required</mark> :   Whether to apply permission requirements as specified at the start of the page\
 &#x20;                                          or not
+
+<mark style="color:green;">Discord webhook</mark> : [#webhooks](discord-hook.md#webhooks "mention")
 
 
 
